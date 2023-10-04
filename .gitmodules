@@ -1,0 +1,12 @@
+[submodule "hugo-theme-cleanwhite"]
+	path = hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "calligraphy"]
+	path = calligraphy
+	url = https://github.com/pacollins/calligraphy.git
+[submodule "themes/hugo-simplecss"]
+	path = themes/hugo-simplecss
+	url = https://github.com/splch/hugo-simplecss.git
+[submodule "hugo-theme-red-rose"]
+	path = hugo-theme-red-rose
+	url = https://github.com/httpsecure/hugo-theme-red-rose.git
