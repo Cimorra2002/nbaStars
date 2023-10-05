@@ -10,3 +10,6 @@
 [submodule "hugo-theme-red-rose"]
 	path = hugo-theme-red-rose
 	url = https://github.com/httpsecure/hugo-theme-red-rose.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack.git
