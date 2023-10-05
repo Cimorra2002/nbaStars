@@ -8,9 +8,13 @@ draft = false
 
 Los **Golden State Warriors** son un equipo emblemático de la NBA con una rica historia y una base de aficionados apasionados. Fundados en 1946 como los Philadelphia Warriors, luego se trasladaron a San Francisco y finalmente a Oakland antes de establecerse definitivamente en San Francisco.
 
+![logo de Golden State Warriors](https://widgets-shared-static.stats.com/logos/128x128/basketball/nba/9.png)
+
 ## Logros Destacados
 
 Hasta la fecha de corte en septiembre de 2021, los Warriors han acumulado un total de **seis campeonatos de la NBA**, siendo uno de los equipos más exitosos en la historia de la liga. Algunos de sus logros más notables incluyen la era de Wilt Chamberlain en la década de 1960, así como su dominio reciente con Stephen Curry y compañía en los años 2010.
+
+---
 
 ## Jugadores Más Importantes
 

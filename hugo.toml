@@ -19,10 +19,10 @@ theme='hugo-theme-stack'
         weight = 2
 
     [[menu.main]]
-        identifier = "partidos"
-        name = "Partidos"
-        title = "Partidos"
-        url = "/partidos/"
+        identifier = "conferencias"
+        name = "Conferencias"
+        title = "Conferencias"
+        url = "/conferencias/"
         weight = 3
 
     [[menu.main]]

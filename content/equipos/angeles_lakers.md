@@ -6,7 +6,7 @@ draft = false
 
 # Historia de los Lakers: Una Trayectoria de Éxito
 
-![sitio web oficial de los Angeles Lakers](https://assets-sports.thescore.com/basketball/team/18/logo.png)
+![logo de los Angeles Lakers](https://assets-sports.thescore.com/basketball/team/18/logo.png)
 
 Los **Lakers de Los Ángeles** son uno de los equipos más icónicos y exitosos en la historia de la NBA (National Basketball Association). Fundados en 1947, originalmente en Minneapolis, se trasladaron a Los Ángeles en 1960 y desde entonces han sido una parte integral de la cultura deportiva de la ciudad.
 
@@ -18,7 +18,7 @@ Campeones de la NBA en 17 ocasiones, están empatados en el palmarés de la NBA,
 
 Los Lakers han ganado un impresionante número de **campeonatos de la NBA**, acumulando un total de **17 anillos** hasta la fecha de corte en septiembre de 2023 **(1949, 1950, 1952, 1953, 1954, 1972, 1980, 1982, 1985, 1987, 1988, 2000, 2001, 2002, 2009, 2010, 2020)**. Algunas de las épocas más exitosas para el equipo incluyen la era de George Mikan en los años 50, el dominio de Magic Johnson y Kareem Abdul-Jabbar en los 80, y la era de Kobe Bryant y Shaquille O'Neal en los 2000.
 
---
+---
 
 ## Jugadores Más Importantes
 
