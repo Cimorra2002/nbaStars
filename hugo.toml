@@ -1,4 +1,33 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'M'
-theme='hugo-theme'
+title = 'NBAstars'
+theme='hugo-theme-stack'
+
+[menu]
+    [[menu.main]]
+        identifier = "pagina_principal"
+        name = "Pagina principal"
+        title = "Pagina principal"
+        url = "/pagina_principal/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "equipos"
+        name = "Equipos"
+        title = "Equipos"
+        url = "/equipos/"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "partidos"
+        name = "Partidos"
+        title = "Partidos"
+        url = "/partidos/"
+        weight = 3
+
+    [[menu.main]]
+        identifier = "estadisticas"
+        name = "Estadisticas"
+        title = "Estadisticas"
+        url = "/estadisticas/"
+        weight = 4
