@@ -6,7 +6,7 @@ draft = false
 
 # Historia de los Lakers: Una Trayectoria de Éxito
 
-![logo de los Angeles Lakers](https://assets-sports.thescore.com/basketball/team/18/logo.png)
+{{< imagenes nombre="https://assets-sports.thescore.com/basketball/team/18/logo.png" alt="logo_lakers" >}}
 
 Los **Lakers de Los Ángeles** son uno de los equipos más icónicos y exitosos en la historia de la NBA (National Basketball Association). Fundados en 1947, originalmente en Minneapolis, se trasladaron a Los Ángeles en 1960 y desde entonces han sido una parte integral de la cultura deportiva de la ciudad.
 

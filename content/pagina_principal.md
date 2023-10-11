@@ -50,4 +50,6 @@ La NBA ha visto a algunos de los jugadores más talentosos y legendarios de todo
 
 La NBA no solo ha tenido un impacto en el ámbito deportivo, sino que también ha influido en la cultura popular en gran medida. Desde la moda hasta la música y el cine, la NBA ha sido fuente de inspiración y referencias constantes.
 
+{{< video2 fragmentoURL2="n6MdkipYSE4">}}
+
 _Para obtener más información sobre la NBA y estar al tanto de las últimas noticias y eventos, visita el [sitio web oficial de la NBA](https://www.nba.com/)._

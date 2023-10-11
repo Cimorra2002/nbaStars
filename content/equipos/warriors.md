@@ -30,4 +30,7 @@ Algunos de los jugadores más influyentes y destacados en la historia de los War
 
 Estos jugadores son solo algunos ejemplos de las numerosas estrellas que han dejado una marca indeleble en la historia de los Golden State Warriors y en la NBA en general.
 
+{{< video fragmentoURL="OFHY7n8V_yw">}}
+
+
 _Para más información sobre la historia, logros y jugadores de los Warriors, puedes visitar el [sitio web oficial de los Golden State Warriors](https://www.nba.com/warriors/)._

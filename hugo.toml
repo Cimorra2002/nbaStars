@@ -31,3 +31,6 @@ theme='hugo-theme-stack'
         title = "Estadisticas"
         url = "/estadisticas/"
         weight = 4
+
+[params]
+    css = ["css/estilos.css"]
